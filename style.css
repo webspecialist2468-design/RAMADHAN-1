@@ -1,0 +1,11 @@
+head {
+    text-align: left;
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+body {
+    background-color: lightblue;
+    text-align: center;
+}
