@@ -7,14 +7,10 @@ h1 {
 }
 body {
     background-image: url(2.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    display: flex;
-    
     text-align: left;
     color: black;
     font-family: arial, sans-serif;
+    text-size-adjust: 18px;
 }
 p {
     color: black;
