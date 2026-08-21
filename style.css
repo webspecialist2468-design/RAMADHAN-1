@@ -1,17 +1,31 @@
-head {
+body {
+    background-color: white;
+    font-size: 18px;
+    padding: 20px;
     text-align: left;
 }
 h1 {
     color: red;
-    text-align: center;
+text-align: left;
 }
-body {
-    background-image: url(2.jpg);
+h2 {
+    color: blue;
     text-align: left;
-    color: black;
-    font-family: arial, sans-serif;
-    text-size-adjust: 18px;
+
+}
+h3 {
+    color: green;
+    text-align: left;
 }
 p {
     color: black;
+}
+header {
+    background-color: yellow;
+    text-align: left;
+}
+
+footer {
+    background-image: url(1.jpg);
+    text-align: left;
 }
