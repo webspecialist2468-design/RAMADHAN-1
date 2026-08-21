@@ -26,6 +26,9 @@ header {
 }
 
 footer {
-    background-image: url(1.jpg);
+    background-image: url(2.jpg);
     text-align: left;
+background-size: auto;
+
+
 }
