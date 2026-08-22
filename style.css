@@ -1,34 +1,41 @@
-body {
-    background-color: white;
-    font-size: 18px;
-    padding: 20px;
+header {
+    background-color: pink;
     text-align: left;
+    padding: 20px;
+
 }
+
+footer {
+    background-color: yellowgreen;
+    text-align: left;
+    padding: 20px;
+}
+body {
+    background-image: url(2.jpg);
+    text-align: left;
+    font-size: large;
+    padding: 20px;
+}
+p {
+    color: black;
+    text-align: left;
+    padding: 20px;
+}
+
 h1 {
     color: red;
-text-align: center;
+    text-align: center;
+    padding: 20px;
 }
 h2 {
-    color: blue;
+    color: darkblue;
+    padding: 20px;
     text-align: center;
 
 }
 h3 {
     color: green;
-    text-align: left;
-}
-p {
-    color: black;
-}
-header {
-    background-color: yellow;
-    text-align: left;
-}
-
-footer {
-    background-image: url(2.jpg);
-    text-align: left;
-background-size: auto;
-
+text-align: center;
+    padding: 20px;
 
 }
