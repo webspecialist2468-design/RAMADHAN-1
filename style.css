@@ -1,41 +1,41 @@
 header {
     background-color: pink;
     text-align: left;
-    padding: 20px;
+    padding: 10px;
 
 }
 
 footer {
     background-color: yellowgreen;
     text-align: left;
-    padding: 20px;
+    padding: 10px;
 }
 body {
     background-image: url(2.jpg);
     text-align: left;
     font-size: large;
-    padding: 20px;
+    padding: 10px;
 }
 p {
     color: black;
     text-align: left;
-    padding: 20px;
+    padding: 10px;
 }
 
 h1 {
     color: red;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
 }
 h2 {
     color: darkblue;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
 
 }
 h3 {
     color: green;
 text-align: center;
-    padding: 20px;
+    padding: 10px;
 
 }
