@@ -39,3 +39,9 @@ text-align: center;
     padding: 2px;
 
 }
+
+.whatsapp-link:hover {
+    background-color: green;
+    padding: 40px;
+    color: darkblue;
+}
