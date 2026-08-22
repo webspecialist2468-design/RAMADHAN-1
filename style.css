@@ -10,6 +10,25 @@ footer {
     text-align: left;
     padding:2px;
 }
+.social-links {
+    margin-top: 20px;
+    padding: 12px;
+    text-align: center;
+}
+.social-links h4 {
+    margin: 0 0 10px;
+}
+.social-links a {
+    display: inline-block;
+    margin: 4px;
+    padding: 8px 12px;
+    color: white;
+    background-color: darkblue;
+    text-decoration: none;
+}
+.social-links a:hover {
+    background-color: green;
+}
 body {
     background-image: url(2.jpg);
     text-align: left;
@@ -38,10 +57,4 @@ h3 {
 text-align: center;
     padding: 2px;
 
-}
-
-.whatsapp-link:hover {
-    background-color: green;
-    padding: 40px;
-    color: darkblue;
 }
